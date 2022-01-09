@@ -25,6 +25,6 @@ Etape 2 : Ouvrez un terminal
 
 Etape 3 : Tapez cd + (le chemin d’accès du dossier) puis Entrer
 
-Etape 4 : Tapez ./Scrabble (Ce petit programme va permettre de compiler et d’exécuter les classes du programme Scrabble)
+Etape 4 : Tapez ./Scrabble.sh (Ce petit programme va permettre de compiler et d’exécuter les classes du programme Scrabble)
 
 *__Une fois que vous avez effectuez toutes les manipulations c’est à vous de jouer !!!__*
