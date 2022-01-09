@@ -1,4 +1,3 @@
-# ScrabbleSAE
 Remarques :
 Durant le projet de la SAE 1.01 du premier semestre du BUT Informatique, Nous avons réalisé un Scrabble en programmation orienté objet qui fonctionne avec les mêmes paramètres du Scrabble authentique.  
 Comment y jouer ?
