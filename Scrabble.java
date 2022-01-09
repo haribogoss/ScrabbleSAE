@@ -40,6 +40,7 @@ public class Scrabble {
         }
         numJoueur = Ut.randomMinMax(0, joueurs.length-1);
         while (!finPartie){
+            passe = 0;
             for (int i = numJoueur; i < joueurs.length; i++) {
                 if (passe==joueurs.length){
                     System.out.println("Tous les joueurs ont passé leur tour la partie est finis.");
